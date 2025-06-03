@@ -4,11 +4,18 @@ This project implements a machine learning model to predict diabetes based on va
 
 ![AI_Diabetes_Resized_800x300](https://github.com/user-attachments/assets/189276b2-f576-49d4-8baa-976e71a72dbb)
 
+## Purpose & Objective
+
+- Identify whether a person has diabetes or not, using an artificial intelligence model based on medical data.
 
 ## Authors 
 - Tomás Castro  
 - Bryan Silva  
 - Camilo  
+
+## Test the model!
+
+https://mltodiabetes.streamlit.app/
 
 ## Features
 
@@ -60,7 +67,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 3. Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements-dev.txt
 ```
 
 ## Usage
@@ -104,7 +111,7 @@ Each model's performance is evaluated using:
 ## Requirements
 
 - Python 3.8 or higher
-- Dependencies listed in `requirements.txt`
+- Dependencies listed in `requirements-dev.txt`
 
 ## Project Structure
 
