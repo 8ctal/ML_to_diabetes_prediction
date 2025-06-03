@@ -1,0 +1,7 @@
+.venv
+pyproject.toml
+.cursorrules
+.cursor
+
+#Files 
+cursor_diabetes_prediction_model_ia_2025.py
