@@ -13,6 +13,9 @@ This project implements a machine learning model to predict diabetes based on va
 - Bryan Silva  
 - Camilo  
 
+## Link to the colab
+
+- https://colab.research.google.com/drive/1TPbi67vxh3m--fbglk-WES_vgEaOfZhj#scrollTo=xCzHLENAlhHQ
 
 ## Video about the project
 
