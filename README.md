@@ -13,6 +13,11 @@ This project implements a machine learning model to predict diabetes based on va
 - Bryan Silva  
 - Camilo  
 
+
+## Video about the project
+
+- https://www.youtube.com/watch?v=akJEb4e9mek
+
 ## Test the model!
 
 https://mltodiabetes.streamlit.app/
@@ -106,7 +111,6 @@ Each model's performance is evaluated using:
 - Precision
 - Recall
 - F1-score
-- Confusion Matrix
 
 ## Requirements
 
