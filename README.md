@@ -21,7 +21,7 @@ This project implements a machine learning model to predict diabetes based on va
 
 - https://www.youtube.com/watch?v=akJEb4e9mek
 
-## Test the model!
+## Test the model❗
 
 https://mltodiabetes.streamlit.app/
 
