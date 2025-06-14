@@ -2,7 +2,12 @@
 
 This project implements a machine learning model to predict diabetes based on various health indicators and patient characteristics. The model uses both supervised and unsupervised learning approaches to provide accurate predictions.
 
-![AI_Diabetes_Resized_800x300](https://github.com/user-attachments/assets/189276b2-f576-49d4-8baa-976e71a72dbb)
+## Banner
+<img src="preview_images/450494844-189276b2-f576-49d4-8baa-976e71a72dbb.png" alt="Banner Overview"/>
+
+## Preview
+<img src="preview_images/Screenshot 2025-06-14 182047.png" alt="Input Overview"/>
+<img src="preview_images/Screenshot 2025-06-14 182055.png" alt="Model Overview"/>
 
 ## Purpose & Objective
 
